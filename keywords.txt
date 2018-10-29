@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For FaBoColor-BH1749NUC-Library
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+FaBoColor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+searchDevice	KEYWORD2
+readIRGainMode	KEYWORD2
+setIRGainMode	KEYWORD2
+readRGBGainMode	KEYWORD2
+setRGBGainMode	KEYWORD2
+readMeasurementMode	KEYWORD2
+setMeasurementMode	KEYWORD2
+readMeasurementEnable	KEYWORD2
+setMeasurementEnable	KEYWORD2
+readValid	KEYWORD2
+readColor	KEYWORD2
+checkData	KEYWORD2
+readRed	KEYWORD2
+readGreen	KEYWORD2
+readBlue	KEYWORD2
+readIR	KEYWORD2
+readGreen2	KEYWORD2
+rgbData	KEYWORD2
+FaBoColor_BH1749NUC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BH1749NUC_SLAVE_ADDRESS_L	LITERAL1
+BH1749NUC_SLAVE_ADDRESS_H	LITERAL1
+BH1749NUC_SLAVE_ADDRESS_DEFAULT	LITERAL1
+BH1749NUC_MC1_IR_GAIN_X1	LITERAL1
+BH1749NUC_MC1_IR_GAIN_X32	LITERAL1
+BH1749NUC_MC1_RGB_GAIN_X1	LITERAL1
+BH1749NUC_MC1_RGB_GAIN_X32	LITERAL1
+BH1749NUC_MC1_MEAS_120MS	LITERAL1
+BH1749NUC_MC1_MEAS_240MS	LITERAL1
+BH1749NUC_MC1_MEAS_35MS	LITERAL1
